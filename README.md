@@ -1,6 +1,6 @@
 # OpenCore EFI for Intel Hackintosh (macOS 10.13 - 11.00)
 
-### <p align = "center"> MyOpenCoreEFI </p>
+![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/img.jpg?raw=true)
 
 ## Specification
 | **Component** | **Model** |
@@ -51,5 +51,3 @@
  - Troubleshooting: [**\*click\***](https://dortania.github.io/OpenCore-Post-Install/)
  - ACPI patching: [**\*click\***](https://dortania.github.io/Getting-Started-With-ACPI/)
  - USB mapping: [**\*click\***](https://dortania.github.io/OpenCore-Post-Install/usb/)
-
-![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/img.jpg?raw=true)
