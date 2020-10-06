@@ -5,19 +5,19 @@
 	<key>BuildMachineOSBuild</key>
 	<string>17G6030</string>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
+	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>WhateverGreen</string>
+	<string>RealtekRTL8111</string>
 	<key>CFBundleIdentifier</key>
-	<string>as.vit9696.WhateverGreen</string>
+	<string>com.insanelymac.RealtekRTL8111</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>WhateverGreen</string>
+	<string>RealtekRTL8111</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.4.4</string>
+	<string>2.3.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.4.4</string>
+	<string>2.3.0</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -42,61 +42,63 @@
 	<string>10B61</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>NVHDAEnabler</key>
+		<key>RTL8111 PCIe Adapter</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>as.vit9696.WhateverGreen</string>
+			<string>com.insanelymac.RealtekRTL8111</string>
+			<key>Driver Parameters</key>
+			<dict>
+				<key>disableASPM</key>
+				<true/>
+				<key>enableCSO6</key>
+				<true/>
+				<key>enableEEE</key>
+				<true/>
+				<key>enableTSO4</key>
+				<true/>
+				<key>enableTSO6</key>
+				<true/>
+				<key>fallbackMAC</key>
+				<string></string>
+				<key>intrMitigate</key>
+				<integer>53080</integer>
+				<key>rxPolling</key>
+				<true/>
+			</dict>
+			<key>Driver_Version</key>
+			<string>2.3.0</string>
 			<key>IOClass</key>
-			<string>NVHDAEnabler</string>
-			<key>IOMatchCategory</key>
-			<string>IOFramebuffer</string>
-			<key>IOPCIClassMatch</key>
-			<string>0x03000000&amp;0xff000000</string>
+			<string>RTL8111</string>
 			<key>IOPCIMatch</key>
-			<string>0x000010de&amp;0x0000ffff</string>
+			<string>0x816810ec 0x81681186 0x250210ec 0x260010ec</string>
 			<key>IOProbeScore</key>
-			<integer>300000</integer>
+			<integer>1000</integer>
 			<key>IOProviderClass</key>
 			<string>IOPCIDevice</string>
-		</dict>
-		<key>as.vit9696.WhateverGreen</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>as.vit9696.WhateverGreen</string>
-			<key>IOClass</key>
-			<string>WhateverGreen</string>
-			<key>IOMatchCategory</key>
-			<string>WhateverGreen</string>
-			<key>IOProviderClass</key>
-			<string>IOResources</string>
-			<key>IOResourceMatch</key>
-			<string>IOKit</string>
+			<key>Model</key>
+			<string>RTL8111</string>
+			<key>Vendor</key>
+			<string>Realtek</string>
 		</dict>
 	</dict>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2018 vit9696. All rights reserved.</string>
-	<key>OSBundleCompatibleVersion</key>
-	<string>1.0</string>
+	<string>Copyright © 2013 Laura Müller. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
 	<dict>
-		<key>as.vit9696.Lilu</key>
-		<string>1.2.0</string>
+		<key>com.apple.iokit.IONetworkingFamily</key>
+		<string>1.5.0</string>
 		<key>com.apple.iokit.IOPCIFamily</key>
-		<string>1.0.0b1</string>
+		<string>1.7</string>
 		<key>com.apple.kpi.bsd</key>
-		<string>12.0.0</string>
-		<key>com.apple.kpi.dsep</key>
-		<string>12.0.0</string>
+		<string>8.10.0</string>
 		<key>com.apple.kpi.iokit</key>
-		<string>12.0.0</string>
+		<string>8.10.0</string>
 		<key>com.apple.kpi.libkern</key>
-		<string>12.0.0</string>
+		<string>8.10.0</string>
 		<key>com.apple.kpi.mach</key>
-		<string>12.0.0</string>
-		<key>com.apple.kpi.unsupported</key>
-		<string>12.0.0</string>
+		<string>8.10.0</string>
 	</dict>
 	<key>OSBundleRequired</key>
-	<string>Root</string>
+	<string>Network-Root</string>
 </dict>
 </plist>
