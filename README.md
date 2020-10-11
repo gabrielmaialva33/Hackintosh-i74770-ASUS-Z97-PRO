@@ -1,6 +1,6 @@
 # OpenCore EFI for Intel Hackintosh (macOS 10.13 - 11.00)
 
-![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/img.jpg?raw=true)
+![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/img1.jpg?raw=true)
 
 ## Specification
 | **Component** | **Model** |
