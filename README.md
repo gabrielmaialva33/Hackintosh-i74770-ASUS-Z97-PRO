@@ -14,7 +14,7 @@
 | OS Disk (SSDM2) | WD Green 240GB |
 
 **macOS version**: 10.15.7 (19H2)  
-**OpenCore version**: 0.6.2 Beta  
+**OpenCore version**: 0.6.3 Beta  
 
 ## Credits
  - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
