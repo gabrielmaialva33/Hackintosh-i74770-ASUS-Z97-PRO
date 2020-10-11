@@ -13,7 +13,7 @@
 | WiFi & Bluetooth | Azure (BCM94352H-MB) - no big sur |
 | OS Disk (SSDM2) | WD Green 240GB |
 
-**macOS version**: 10.15.7 (19H2)  
+**macOS version**: 11.0 (20A5384c)  
 **OpenCore version**: 0.6.3 Beta  
 
 ## Credits
