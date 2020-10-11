@@ -7,7 +7,7 @@
 | ------------- | --------- |
 | CPU | Intel i7-4770 (8) @ 3.40GHz |
 | Motherboard | ASUS Z97 PRO |
-| RAM | 20GB (3 x 4GB - 1 x 8GB) Corsair @ 1600MHz |
+| RAM | 20GB (3 x 4GB - 1 x 8GB) Corsair @ 1333MHz |
 | Audio Chipset | ALC-1150 |
 | GPU | Radeon RX 570 |
 | WiFi & Bluetooth | Azure (BCM94352H-MB) - big sur droped |
