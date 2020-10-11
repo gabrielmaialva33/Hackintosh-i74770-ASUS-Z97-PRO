@@ -10,7 +10,7 @@
 | RAM | 20GB (3 x 4GB - 1 x 8GB) Corsair @ 1600MHz |
 | Audio Chipset | ALC-1150 |
 | GPU | Radeon RX 570 |
-| WiFi & Bluetooth | Azure (BCM94352H-MB) |
+| WiFi & Bluetooth | Azure (BCM94352H-MB) - no big sur |
 | OS Disk (SSDM2) | WD Green 240GB |
 
 **macOS version**: 10.15.7 (19H2)  
