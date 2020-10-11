@@ -18,10 +18,7 @@
 
 ## Credits
  - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
- - [[Resources] Picker GUI](https://github.com/acidanthera/OcBinaryData/tree/master/Resources)
- - [[SSDT] EC-USBX-DESKTOP](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-DESKTOP.aml)
  - [[Driver] OpenRuntime](https://github.com/acidanthera/OpenCorePkg)
- - [[Driver] OpenCanopy](https://github.com/acidanthera/OpenCorePkg)
  - [[Driver] HFSPlus](https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi)
  - [[Kext] Lilu](https://github.com/acidanthera/Lilu)
  - [[Kext] VirtualSMC](https://github.com/acidanthera/VirtualSMC)
