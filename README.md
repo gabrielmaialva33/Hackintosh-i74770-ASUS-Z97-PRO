@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/.github/images/img1.jpg?raw=true)
 
+## **info** -> for support call me the telegram: @mrootx
+
 ## Specification
 
 | **Component**    | **Model**                                  |
