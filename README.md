@@ -1,4 +1,4 @@
-# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 11.00)
+# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 11.4)
 
 ![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/.github/images/img.jpg?raw=true)
 
@@ -16,8 +16,8 @@
 | WiFi & Bluetooth | Azure (BCM94352H-MB)                       |
 | OS Disk (SSDM2)  | WD Green 240GB                             |
 
-**macOS version**: 11.0 (20A5384c)  
-**OpenCore version**: 0.6.5 Beta
+**macOS version**: 11.4 (20F71)  
+**OpenCore version**: 0.7.1 Beta
 
 ## Credits
 
@@ -34,7 +34,7 @@
 - High Sierra (10.13.x)
 - Mojave (10.14.x)
 - Catalina (10.15.x)
-- Big Sur (10.16/11.0)
+- Big Sur (10.16/11.4)
 
 ## How to use
 
