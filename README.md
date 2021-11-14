@@ -30,12 +30,11 @@
 
 ## Compatible macOS versions
 
-- Monterey (12.0.1)
-- Big Sur (11.1.x)
 - High Sierra (10.13.x)
 - Mojave (10.14.x)
 - Catalina (10.15.x)
 - Big Sur (10.16/11.4)
+- Monterey (12.0.1)
 
 ## How to use
 
