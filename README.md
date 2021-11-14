@@ -2,22 +2,21 @@
 
 ![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/.github/images/img.jpg?raw=true)
 
-## **info** -> for support call me the telegram: @mrootx
+## **info** -> for support call me on telegram: @mrootx
 
 ## Specification
 
-| **Component**    | **Model**                                  |
-| ---------------- | ------------------------------------------ |
-| CPU              | Intel i7-4770 (8) @ 3.40GHz                |
-| Motherboard      | ASUS Z97 PRO                               |
-| RAM              | 20GB (3 x 4GB - 1 x 8GB) Corsair @ 1333MHz |
-| Audio Chipset    | ALC-1150                                   |
-| GPU              | Radeon RX 570                              |
-| WiFi & Bluetooth | Azure (BCM94352H-MB)                       |
-| OS Disk (SSDM2)  | WD Green 240GB                             |
+| **Component**   | **Model**                                  |
+| --------------- | ------------------------------------------ |
+| CPU             | Intel i7-4770 (8) @ 3.40GHz                |
+| Motherboard     | ASUS Z97 PRO                               |
+| RAM             | 20GB (3 x 4GB - 1 x 8GB) Corsair @ 1333MHz |
+| Audio Chipset   | ALC-1150                                   |
+| GPU             | Radeon RX 570                              |
+| OS Disk (SSDM2) | WD Green 240GB                             |
 
-**macOS version**: 11.4 (20F71)  
-**OpenCore version**: 0.7.1 Beta
+**macOS version**: 12.0.1 (21A559)  
+**OpenCore version**: 0.7.5
 
 ## Credits
 
@@ -31,6 +30,8 @@
 
 ## Compatible macOS versions
 
+- Monterey (12.0.1)
+- Big Sur (11.1.x)
 - High Sierra (10.13.x)
 - Mojave (10.14.x)
 - Catalina (10.15.x)
