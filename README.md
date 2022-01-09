@@ -10,13 +10,13 @@
 | --------------- | ------------------------------------------ |
 | CPU             | Intel i7-4770 (8) @ 3.40GHz                |
 | Motherboard     | ASUS Z97 PRO                               |
-| RAM             | 20GB (3 x 4GB - 1 x 8GB) Corsair @ 1333MHz |
+| RAM             | 16GB (2 x 4GB - 1 x 8GB) Corsair @ 1600MHz |
 | Audio Chipset   | ALC-1150                                   |
 | GPU             | Radeon RX 570                              |
 | OS Disk (SSDM2) | WD Green 240GB                             |
 
-**macOS version**: 12.0.1 (21A559)  
-**OpenCore version**: 0.7.5
+**macOS version**: 12.0.1 (21C52)  
+**OpenCore version**: 0.7.6
 
 ## Credits
 
@@ -34,7 +34,7 @@
 - Mojave (10.14.x)
 - Catalina (10.15.x)
 - Big Sur (10.16/11.4)
-- Monterey (12.0.1)
+- Monterey (12.1)
 
 ## How to use
 
