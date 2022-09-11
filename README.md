@@ -2,7 +2,6 @@
 
 ![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/.github/images/img.jpg?raw=true)
 
-
 ## Specification
 
 | **Component**   | **Model**                                  |
@@ -15,7 +14,7 @@
 | OS Disk (SSDM2) | WD Green 240GB                             |
 
 **macOS version**: 12.0.1 (21C52)  
-**OpenCore version**: 0.7.6
+**OpenCore version**: 0.7.8
 
 ## Credits
 
