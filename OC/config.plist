@@ -119,7 +119,13 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
-		<dict/>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1B,0x0)</key>
+			<dict>
+				<key>layout-id</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
 		<key>Delete</key>
 		<dict/>
 	</dict>
