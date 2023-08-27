@@ -16,7 +16,7 @@
 | OS Disk (SSDM2) | WD Green 240GB                             |
 
 **macOS version**: 13.0.0 (20A5395g)
-**OpenCore version**: 0.9.5
+**OpenCore version**: 0.9.4
 
 ## Credits
 
