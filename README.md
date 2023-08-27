@@ -1,6 +1,8 @@
-# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 12.1)
+# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 13.0)
 
 ![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/.github/images/img.jpg?raw=true)
+
+## OBS: I no longer have this hardware, so I have no way to test it but I believe it still works
 
 ## Specification
 
@@ -13,8 +15,8 @@
 | GPU             | Radeon RX 570                              |
 | OS Disk (SSDM2) | WD Green 240GB                             |
 
-**macOS version**: 12.0.1 (21C52)  
-**OpenCore version**: 0.7.8
+**macOS version**: 13.0.0 (20A5395g)
+**OpenCore version**: 0.9.5
 
 ## Credits
 
@@ -33,6 +35,7 @@
 - Catalina (10.15.x)
 - Big Sur (10.16/11.4)
 - Monterey (12.1)
+- Ventura (13.0)
 
 ## How to use
 
