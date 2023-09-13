@@ -2,7 +2,9 @@
 
 ![alt text](https://github.com/gabrielmaialva33/efi-opencore-z97p/blob/master/.github/images/img.jpg?raw=true)
 
-## OBS: I no longer have this hardware, so I have no way to test it but I believe it still works
+## OBS: I no longer have this hardware, so I have no way to test it but I believe it still works 
+
+*see new efi* [GA-B85M-D3H](https://github.com/gabrielmaialva33/efi-opencore-b85)
 
 ## Specification
 
